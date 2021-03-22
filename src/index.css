@@ -1,0 +1,8 @@
+.columns {
+  display: flex;
+}
+
+
+.task-column {
+  width: 200px;
+}
